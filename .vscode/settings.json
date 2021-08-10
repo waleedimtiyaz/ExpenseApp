@@ -25,6 +25,7 @@
         ]
     },
     "terminal.integrated.shell.linux": "",
-    "terminal.integrated.shellArgs.windows": null
+    "terminal.integrated.shellArgs.windows": null,
+    "git.ignoreLimitWarning": true
     
 }
